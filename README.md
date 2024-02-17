@@ -130,7 +130,7 @@ The application will start at [http://localhost:3000](http://localhost:3000) by 
 | ![Screenshot_16-2-2024_234954_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/d887785a-b109-4f04-8481-9ad4f8aa74dd) | ![Screenshot_16-2-2024_235011_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/c3217b6e-6b91-4a8a-8e9f-4d0a525a3465) | ![Screenshot_16-2-2024_23516_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/2de72bb8-4802-462a-a655-7349ed15eece) |
 | ![Screenshot_16-2-2024_235123_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/56c44048-aca2-4daa-877d-dc9a46a98f37) | ![Screenshot_16-2-2024_23587_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/f5d6009d-aa35-4336-8bd8-dab8dc1bff25) | ![Screenshot_16-2-2024_235827_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/7ddd7061-5337-4542-8295-ec3ec4cebf1e) |
 | ![Screenshot_16-2-2024_235844_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/5b8823ee-4838-40e9-8ef7-65ff46af869a) | ![Screenshot_17-2-2024_030_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/ebe7b8fd-29dc-4835-a00e-830364c9cb9d) | ![Screenshot_17-2-2024_0442_localhost](https://github.com/anmolkumarshah/WealthGoalApplication/assets/52107296/8ad6dad2-7125-4af5-8bc8-dc6d0e3e36ca) |
-| 
+
 
 
 
